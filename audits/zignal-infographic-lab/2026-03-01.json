@@ -1,0 +1,35 @@
+{
+  "date": "2026-03-01",
+  "project": "zignal-infographic-lab",
+  "health_score": 4,
+  "red_count": 6,
+  "yellow_count": 12,
+  "green_count": 1,
+  "advisors_seated": ["Designer", "Customer", "Contrarian", "QA Engineer"],
+  "open_findings": [
+    "R1: Pricing completely absent (7 weeks unresolved)",
+    "R2: Gold on light background fails WCAG AA (1.98:1 ratio)",
+    "R3: Low-opacity white text invisible (white/25 = 1.1:1 ratio)",
+    "R4: No social proof, testimonials, or case studies",
+    "R5: No competitive positioning vs Canva/Napkin AI",
+    "R6: 12 inline styles bypass design token system",
+    "Y1: Gallery carousel buttons hidden on mobile",
+    "Y2: 50-char minimum invisible until interaction",
+    "Y3: Get API Key button dead link",
+    "Y4: Missing jsx-a11y ESLint plugin",
+    "Y5: No pre-commit hooks or CI/CD pipeline",
+    "Y6: Missing main landmark + skip-to-content",
+    "Y7: 19 hardcoded hex colors in data arrays",
+    "Y8: Advanced styles no visual preview",
+    "Y9: Hick's Law — 27+ controls in generator",
+    "Y10: No documentation or help resources",
+    "Y11: Pipeline visualization over-prominent",
+    "Y12: Dark theme only — no light toggle"
+  ],
+  "resolved_since_last": ["Y7 (gallery mixed aspect ratios) — now all 16:9"],
+  "delta": {
+    "previous_score": 6,
+    "score_change": -2,
+    "reason": "New interactive features introduced new issues; critical business findings (pricing, social proof) unresolved for 7 weeks"
+  }
+}

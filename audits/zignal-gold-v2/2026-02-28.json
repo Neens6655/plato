@@ -1,0 +1,23 @@
+{
+  "date": "2026-02-28",
+  "project": "zignal-gold-v2",
+  "health_score": 5.5,
+  "red_count": 3,
+  "yellow_count": 8,
+  "green_count": 2,
+  "advisors_seated": ["Designer", "Customer", "Contrarian"],
+  "scope": "UI/UX focused",
+  "open_findings": [
+    "No data freshness indicator",
+    "Paper trading results lack disclaimers",
+    "Chart/History may crash without error boundaries",
+    "Gold color fails WCAG AA contrast",
+    "Color as sole status differentiator",
+    "Module cards not keyboard accessible",
+    "No focus-visible indicator",
+    "Trade recommendation missing risk context",
+    "5-column grid breaks on mobile",
+    "Chart markers not inspectable",
+    "Tactical overlay disconnected from recommendation"
+  ]
+}

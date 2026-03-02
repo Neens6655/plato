@@ -1,0 +1,31 @@
+{
+  "date": "2026-03-01",
+  "project": "zignal-infographic-lab",
+  "type": "feature-roadmap-council",
+  "scope": "Post-generation features: edit, share, multi-version",
+  "advisors_seated": ["Designer", "Customer", "Strategist", "Contrarian"],
+  "council_verdict": "Ship what you have. Then build multi-version generation as AI-native moat. Editing is a trap.",
+  "red_count": 3,
+  "yellow_count": 6,
+  "green_count": 4,
+  "key_findings": [
+    "R1: Ship pricing + deploy to beta THIS WEEK (100% confidence)",
+    "R2: Multi-version batch generation with 4-variant comparison grid (95% confidence)",
+    "R3: Deploy + measure before building more features (96% confidence)",
+    "Y1: Watermark-gating as primary conversion lever",
+    "Y2: Smart social export with platform-specific formatting",
+    "Y3: Team collaboration with shareable draft links",
+    "Y4: Brand Kit — saved colors, fonts, logo",
+    "Y5: QR Code + Embed Code exports",
+    "Y6: Smart Regenerate with parameter pinning"
+  ],
+  "council_debate": "Editing — Designer+Customer want lightweight annotations; Strategist+Contrarian say skip it, restyle IS editing. Verdict: defer to Week 7+, A/B test first.",
+  "recommended_sequence": [
+    "Week 1: Pricing + deploy",
+    "Week 2: Watermark + social export + success sound",
+    "Week 3-4: Multi-version batch generation (4-variant grid)",
+    "Week 5: Smart Regenerate + QR/embed + session history",
+    "Week 6: Team collaboration",
+    "Week 7+: Brand Kit + public gallery (if data supports)"
+  ]
+}

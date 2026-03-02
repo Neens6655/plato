@@ -1,0 +1,25 @@
+{
+  "date": "2026-02-28",
+  "project": "zignal-infographic-lab",
+  "health_score": 6,
+  "red_count": 4,
+  "yellow_count": 10,
+  "green_count": 1,
+  "advisors_seated": ["Designer", "Customer", "Contrarian"],
+  "open_findings": [
+    "R1: Pricing completely absent",
+    "R2: Mobile layout untested",
+    "R3: No signup claim misleading",
+    "R4: No competitive positioning vs Canva",
+    "Y1: Generator placeholder and 50-char minimum invisible",
+    "Y2: Contrast ratios fail WCAG AA on interactive elements",
+    "Y3: Error recovery buried",
+    "Y4: Styles & Layouts nav link dead",
+    "Y5: CTA button lacks affordance states",
+    "Y6: No generation time indication",
+    "Y7: Gallery mixed aspect ratios",
+    "Y8: Zero social proof",
+    "Y9: No documentation or help",
+    "Y10: Gold accent overuse"
+  ]
+}
