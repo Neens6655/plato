@@ -1,0 +1,13 @@
+# Ignore node modules if it's a JS project
+node_modules/
+
+# Python virtual environments
+venv/
+.venv/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
